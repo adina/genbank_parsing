@@ -1,0 +1,41 @@
+CAB41476.2; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;"streptomycin resistance"
+CAI64030; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella.;
+AAB60178.1; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;
+CAA37686.1; Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium.;
+AAL08437.1; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella.;
+CAD55840; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Pasteurella.;"sulfonamide resistance"
+CAJ20142; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella.;
+ACX70194; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;
+CAJ13568; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;"streptomycin/spectinomycin resistance"
+ACX70194; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;
+YP_209370.1; SC-B67 Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales;;
+EGK46573; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii;
+JQ1203; Bacteria; Proteobacteria.REFERENCE 1 (residues 1 to 128);
+ACI02887; Bacteria; environmental samples.REFERENCE 1 (residues 1 to 961);
+CAA37686.1; Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Corynebacterineae; Mycobacteriaceae; Mycobacterium.;
+AAL08437.1; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Shigella.;
+AAO38185; Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Moraxellaceae; Acinetobacter; Acinetobacter calcoaceticus/baumannii;
+ADE58499; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;
+CAA68507.1; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;
+AEC47425; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Klebsiella.;
+ADB23355; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Salmonella.;
+AAK62562.1; Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus.;"kanamycin resistance"
+AAB00676; Bacteria; Firmicutes; Bacilli; Lactobacillales; Enterococcaceae; Enterococcus.;
+BAA95632; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides.;
+AAQ62546; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.;
+CAD89790; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides.;"macrolide-efflux protein"
+AAR29485; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter.;
+AAY54279; Bacteria; Proteobacteria; Gammaproteobacteria; Pasteurellales; Pasteurellaceae; Actinobacillus.;
+EEV00180; Bacteria; Firmicutes; Clostridia; Clostridiales; Lachnospiraceae; Roseburia.;
+EFB33727; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Prevotellaceae; Prevotella.;
+AAZ79478; Bacteria; Actinobacteria; Actinobacteridae; Bifidobacteriales; Bifidobacteriaceae; Bifidobacterium.;
+EIZ00041; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides.;
+AAR29485; Bacteria; Proteobacteria; Epsilonproteobacteria; Campylobacterales; Campylobacteraceae; Campylobacter.;
+AER19607; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.;
+AAO42741; Bacteria; Firmicutes; Negativicutes; Selenomonadales; Veillonellaceae; Megasphaera.;
+AAL09826; Bacteria; Actinobacteria; Actinobacteridae; Actinomycetales; Actinomycineae; Actinomycetaceae; Trueperella.;
+AAT84071; Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides.;
+EFD05557; Bacteria; Firmicutes; Clostridia; Clostridiales; Peptostreptococcaceae; Peptostreptococcus.;
+AAS45561; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.;
+AFU35078; Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacteriales; Enterobacteriaceae; Escherichia.;
+CCF03334; Bacteria; Firmicutes; Bacilli; Lactobacillales; Streptococcaceae; Streptococcus.;
